@@ -11,9 +11,9 @@
 * Team Members (Technothon 1.0) :
     | Participant | Discord Nickname |
     | ----------- | ---------------- |
-    | Rahul Pathak | naav taka \| Participant |
-    | Tanmay Atre | naav taka \| Participant |
-    | Aishwarya Funaguskar | naav taka \| Participant |
+    | Rahul Pathak | RAHUL PATHAK \| Participant |
+    | Tanmay Atre | TanmayAtre \| Participant |
+    | Aishwarya Funaguskar | Aishwarya Funaguskar - Participant |
     | Ishaan Sunita Pandita | Ishaan Pandita \| Participant |
 ---
 ## Outline of Idea
@@ -31,9 +31,9 @@
 
 ## Tech Stack Used
 > HTML
-CSS
-JavaScript
-Etherium (Under development)
+> CSS
+> JavaScript (Under development)
+> Etherium (Under development)
 
 
 ## Real Time Application
