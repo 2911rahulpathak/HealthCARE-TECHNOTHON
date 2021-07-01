@@ -13,7 +13,7 @@
     | ----------- | ---------------- |
     | Rahul Pathak | RAHUL PATHAK \| Participant |
     | Tanmay Atre | TanmayAtre \| Participant |
-    | Aishwarya Funaguskar | Aishwarya Funaguskar - Participant |
+    | Aishwarya Funaguskar | Aishwarya Funaguskar \| Participant |
     | Ishaan Sunita Pandita | Ishaan Pandita \| Participant |
 ---
 ## Outline of Idea
