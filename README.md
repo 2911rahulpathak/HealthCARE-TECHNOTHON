@@ -31,8 +31,11 @@
 
 ## Tech Stack Used
 > HTML
+> 
 > CSS
+> 
 > JavaScript (Under development)
+> 
 > Etherium (Under development)
 
 
