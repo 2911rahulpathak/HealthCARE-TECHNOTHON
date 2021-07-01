@@ -1,9 +1,22 @@
-body{
-margin: 0px;
-}
-.container{
+body
+{
+    margin: 0px;
 
+    /* Added font to general body text */
+    font-family: 'Economica', sans-serif;
+    font-size: 1.25rem;
 }
+
+
+/* Updated .container styling */
+.container
+{
+/* display: flexbox; */
+width: 100%;
+}
+
+
+
 .header{
     display: flex;
     align-items: center;
@@ -21,7 +34,8 @@ margin: 0px;
     
 }
 
-.policy-h{
+.policy-h
+{
     margin-top: 20px;
     width: 100%;
     height: 75px;
@@ -30,11 +44,13 @@ margin: 0px;
     align-items: center;
     border-radius: 20px;
     border: 2px solid #4c6986;
-    font-size: 20px;
+    font-size: 2rem;
+
+    /* Added Font Family for emphasis */
+    font-family: 'Romanesco';
 
 }
 .wrapper{
-
 height: 900px;
 width:100%;
 display: flex;
@@ -43,54 +59,64 @@ justify-content: center;
 font-size: 4rem;
 padding: 10px;
 
+
+}
+.Headh
+{
+
+display: inline-flex;
+
 }
 
 
-
-/* .wrapper{
-    top:1000x;
-} */
-
-.Head100 h1{
-
-
-font-size: 100px;
-text-align: center;
-/* border: 2px solid red; */
-
+/* Added alignment and font for "I am a ..." Question */
+.Head100
+{
+    font-family: 'Great Vibes';
+    font-size: 3rem;
+    text-align: center;
 }
+
+
 .left{
     display: flex;
     align-items: center;
     justify-content: center;
 
-} 
-.Doner{
-margin-left: 20px;
-margin-right: 216px;
-border: 2px solid red;
-text-align: center;
-border-radius: 20px;
+}
 
 
+.Doner
+{
+    /* Added Alignment for text */
+    text-align: center;
+    margin-left: 20px;
+
+    /* Updated border */
+    border: 2px solid red;
+    border-radius: 10%;
 }
 .Doner img{
-    width: 400px;
-    height: 200px;
-    padding: 15px; 
+    width: 500px;
+    height: 300px; 
 
+    /* Updated padding */
+    padding: 15px;
 }
-.patient{
-    border: 2px solid red;
+.patient
+{
+    /* Added alignment for text */
     text-align: center;
     margin-left: 30px;
-    border-radius: 20px;
+    border: 2px solid red;
+    border-radius: 10%;
 }
 .patient img{
-    width: 400px;
-    height: 200px;
-    padding: 15px;
+    width: 500px;
+    height: 300px;
 
+    /* Updated padding */
+    padding: 15px;
 }
 
 /*.choice{
@@ -116,16 +142,11 @@ border-radius: 20px;
 
 }
 */
-.patient{
-    
-
-}
 
 .policyR{
-   
-    align-items: center;
+    text-align: justify;
+    /* align-items: center; */
     padding: 25px;
-   
 
 }
 .image1{
